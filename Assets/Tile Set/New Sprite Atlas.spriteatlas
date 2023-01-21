@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2860683803506212498, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -5932747441975053679, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -485900928990193082, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -7557541168618433595, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 2707280304662104665, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 7963830454991619801, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3353401043692503472, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 343588901324370950, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2889228642734856559, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1183013987427506536, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 1963387761885265061, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 8752244249304662982, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 1629270657223530876, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -413450330151258191, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -8877011557043096206, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -156695164967187256, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -8227342854849301133, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -5619051769277021255, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5614276804984583503, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6291420561500111034, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1008890659045583937, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3138559999867000899, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5773644679171699952, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6089618366853076069, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 1899202396968182784, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 2529318253052659235, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6807686083691327530, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4613306747980076573, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1595267620797127133, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -484744610234723983, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -7030077246239192227, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -8047590415499036451, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -6436559857212313410, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6863942636626982867, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4411892688463152251, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2646141533631415943, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -6848770464722964529, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -4309709802885812592, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5747486845130066731, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -7062010889548706238, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2746387644223609706, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2093004398696653275, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2593909804195586547, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -5031072073402206802, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3342191324077913743, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -3163253134358631212, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4678020128166403907, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3844840361346057122, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2674120169791141493, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 2219624152047712502, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 1651278532476618278, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4453381371774105956, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -3779803788892173386, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -5980612686163972297, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4375186707517154383, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -3522823446950030151, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3559060724074668849, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 8306903251525335769, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5278839791644671431, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -684661752070059062, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 135238789598364888, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -398884026096321165, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4584002978612650940, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3931123458014315178, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3943154401496546794, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 388444672686251179, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6874612835082395930, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 1652986092674865071, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -9135074283936688153, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -3924138539284664501, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4237352607226918160, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -6126051408443047076, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 8098702013592805738, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 9071105618462585177, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1877394815895242431, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -7545288506824570750, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -4052349935819101917, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1813560589890891773, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1247573296885107162, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5462768106601726704, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3158700412306757457, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 4537947443959758538, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -7432879973042430130, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 2704699468980112275, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -3102196988707545492, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 2039658158228234989, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 7642951607003728518, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -1579891563656137437, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 8066932117837408526, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5937279636572054813, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2343793574691340782, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -4262966678431674733, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6523654235393999646, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 6420191920977930658, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -8503143917215574737, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3098307647011667273, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: -2796132065421609971, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 5290588395151100287, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  - {fileID: 3031280085960221461, guid: 951ba10742ad82448859c5ff7fb7e2d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Room lord tile set v3_3
+  - Room lord tile set v3_2
+  - Room lord tile set v3_1
+  - Room lord tile set v3_0
+  - Room lord tile set v3_7
+  - Room lord tile set v3_6
+  - Room lord tile set v3_5
+  - Room lord tile set v3_4
+  - Room lord tile set v3_96
+  - Room lord tile set v3_97
+  - Room lord tile set v3_94
+  - Room lord tile set v3_95
+  - Room lord tile set v3_89
+  - Room lord tile set v3_92
+  - Room lord tile set v3_88
+  - Room lord tile set v3_93
+  - Room lord tile set v3_90
+  - Room lord tile set v3_91
+  - Room lord tile set v3_29
+  - Room lord tile set v3_28
+  - Room lord tile set v3_81
+  - Room lord tile set v3_80
+  - Room lord tile set v3_83
+  - Room lord tile set v3_23
+  - Room lord tile set v3_98
+  - Room lord tile set v3_82
+  - Room lord tile set v3_22
+  - Room lord tile set v3_18
+  - Room lord tile set v3_85
+  - Room lord tile set v3_21
+  - Room lord tile set v3_19
+  - Room lord tile set v3_84
+  - Room lord tile set v3_20
+  - Room lord tile set v3_16
+  - Room lord tile set v3_87
+  - Room lord tile set v3_27
+  - Room lord tile set v3_17
+  - Room lord tile set v3_86
+  - Room lord tile set v3_26
+  - Room lord tile set v3_14
+  - Room lord tile set v3_25
+  - Room lord tile set v3_15
+  - Room lord tile set v3_24
+  - Room lord tile set v3_12
+  - Room lord tile set v3_13
+  - Room lord tile set v3_10
+  - Room lord tile set v3_11
+  - Room lord tile set v3_74
+  - Room lord tile set v3_75
+  - Room lord tile set v3_76
+  - Room lord tile set v3_77
+  - Room lord tile set v3_67
+  - Room lord tile set v3_38
+  - Room lord tile set v3_70
+  - Room lord tile set v3_66
+  - Room lord tile set v3_39
+  - Room lord tile set v3_71
+  - Room lord tile set v3_65
+  - Room lord tile set v3_72
+  - Room lord tile set v3_64
+  - Room lord tile set v3_73
+  - Room lord tile set v3_63
+  - Room lord tile set v3_62
+  - Room lord tile set v3_58
+  - Room lord tile set v3_61
+  - Room lord tile set v3_59
+  - Room lord tile set v3_60
+  - Room lord tile set v3_30
+  - Room lord tile set v3_78
+  - Room lord tile set v3_31
+  - Room lord tile set v3_79
+  - Room lord tile set v3_49
+  - Room lord tile set v3_32
+  - Room lord tile set v3_52
+  - Room lord tile set v3_48
+  - Room lord tile set v3_33
+  - Room lord tile set v3_53
+  - Room lord tile set v3_34
+  - Room lord tile set v3_50
+  - Room lord tile set v3_35
+  - Room lord tile set v3_69
+  - Room lord tile set v3_51
+  - Room lord tile set v3_45
+  - Room lord tile set v3_36
+  - Room lord tile set v3_68
+  - Room lord tile set v3_56
+  - Room lord tile set v3_44
+  - Room lord tile set v3_37
+  - Room lord tile set v3_57
+  - Room lord tile set v3_47
+  - Room lord tile set v3_54
+  - Room lord tile set v3_46
+  - Room lord tile set v3_55
+  - Room lord tile set v3_41
+  - Room lord tile set v3_40
+  - Room lord tile set v3_43
+  - Room lord tile set v3_42
+  - Room lord tile set v3_9
+  - Room lord tile set v3_8
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
